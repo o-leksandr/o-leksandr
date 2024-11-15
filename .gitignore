@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Temporary directory in the root of the workspace only
+tmp
+!*/tmp
