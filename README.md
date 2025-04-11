@@ -1,27 +1,35 @@
 <!-- markdownlint-disable MD041 -->
 <!-- /* cspell:locale en */ -->
 <!-- LTeX: language=en-US-->
-## **Portfolio:**
 
-- [ChatGPT integration in VS Code through standard terminal.](https://github.com/o-leksandr/openai-api)
+## **Portfolio**
+
+[link](https://o-leksandr.github.io) / [source](https://github.com/o-leksandr/o-leksandr.github.io)
+
+---
 
 ## **Key Skills:**
 
-- **Automation**: Desire to automate repetitive tasks to optimize workflows
-- **Task and Time Management**: Skilled at organizing and prioritizing tasks effectively
-- **Research and documentation**: Ability to write concise, thoughtful documentation and summaries for both technical and non-technical audiences
+- **Automation & Scripting**: Proficient in Bash scripting to automate system tasks and optimize workflows
+- **System Administration**: Comfortable with Linux-based environments
+- **Debugging & Optimization**: Experienced in troubleshooting, profiling, and optimizing Bash scripts
+- **Documentation**: Skilled in writing clean, readable code with clear comments
 - **Open Source**: Open source enthusiast
 
 ## **Tools & Technologies:**
 
+- **Bash**
+- **Git & GitHub**
 - **Visual Studio Code (VS Code)**
-- **Large Language Models (LLM's)**
-- **Git**
+- **ShellCheck (Linting)**
+- **GitHub Actions (CI/CD)**
 
 ## **Languages:**
 
-- **Markdown**
 - **Bash**
+- **Markdown**
+- **YAML**
+- **HTML/CSS**
 
 ## **Platforms:**
 
@@ -30,6 +38,8 @@
 
 ## **Soft Skills:**
 
-- **Responsive, considerate, and adaptable**
-- **Self-motivated with desire for ongoing scientific contributions**
+- **Detail-oriented and self-directed**
+- **Strong communicator with a passion for knowledge sharing**
+- **Reliable, adaptable, and motivated by meaningful projects**
+- **Committed to continuous learning and improvement**
 - **Team-player**
