@@ -43,3 +43,7 @@
 - **Reliable, adaptable, and motivated by meaningful projects**
 - **Committed to continuous learning and improvement**
 - **Team-player**
+
+## Certificates
+
+![Computer Hardware Basics](<./imgs/certs/Computer Hardware Basics.png>) ![Computer Hardware Basics](<./imgs/certs/Introduction to Cybersecurity.png>) ![Computer Hardware Basics](<./imgs/certs/Networking Basics.png>) ![Computer Hardware Basics](<./imgs/certs/Operating Systems Basics.png>)
