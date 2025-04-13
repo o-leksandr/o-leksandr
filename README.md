@@ -8,41 +8,33 @@
 
 ---
 
-## **Key Skills:**
+## **Key Skills**
 
-- **Automation & Scripting**: Proficient in Bash scripting to automate system tasks and optimize workflows
-- **System Administration**: Comfortable with Linux-based environments
-- **Debugging & Optimization**: Experienced in troubleshooting, profiling, and optimizing Bash scripts
-- **Documentation**: Skilled in writing clean, readable code with clear comments
-- **Open Source**: Open source enthusiast
+- ⚙️ Automation & Scripting with Bash
+- 🐧 Linux System Administration
+- 🪛 Debugging & Optimization
+- 📝 Clear Documentation & Readable Code
+- 💻 Open Source Contributor
 
-## **Tools & Technologies:**
+## **Tools & Technologies**
 
-- **Bash**
-- **Git & GitHub**
-- **Visual Studio Code (VS Code)**
-- **ShellCheck (Linting)**
-- **GitHub Actions (CI/CD)**
+- Bash, Git, GitHub
+- VS Code, ShellCheck
+- GitHub Actions (CI/CD)
 
-## **Languages:**
+## **Languages**
 
-- **Bash**
-- **Markdown**
-- **YAML**
-- **HTML/CSS**
+Bash, Markdown, YAML, HTML/CSS
 
-## **Platforms:**
+## **Platforms**
 
-- **Linux**
-- **Windows**
+Linux, Windows
 
-## **Soft Skills:**
+## **Soft Skills**
 
-- **Detail-oriented and self-directed**
-- **Strong communicator with a passion for knowledge sharing**
-- **Reliable, adaptable, and motivated by meaningful projects**
-- **Committed to continuous learning and improvement**
-- **Team-player**
+- ✅ Detail-oriented & self-directed
+- 🗣 Strong communicator & knowledge sharer
+- 📈 Growth-minded & reliable team player
 
 ## Certificates
 
