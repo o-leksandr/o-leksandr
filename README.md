@@ -11,20 +11,26 @@
 ## **Key Skills**
 
 - ⚙️ Automation & Scripting with Bash
+- 🧠 Workflow Design & Documentation Strategy
 - 🐧 Linux System Administration
 - 🪛 Debugging & Optimization
+- 🔄 CI/CD Pipeline Integration & Release Engineering
 - 📝 Clear Documentation & Readable Code
 - 💻 Open Source Contributor
+- 🧪 Version Control Best Practices
+- 🤖 Leveraging Large Language Models (LLMs) for DevOps, documentation, and automation workflows
 
 ## **Tools & Technologies**
 
-- Bash, Git, GitHub
-- VS Code, ShellCheck
-- GitHub Actions (CI/CD)
+- Bash, Git, GitHub, Makefile
+- FastAPI, Markdown, mkdocs
+- VS Code, ShellCheck, markdownlint
+- GitHub Actions (CI/CD), GitHub CLI (`gh`)
+- LLMs (ChatGPT, GPT-based tooling, prompt engineering)
 
 ## **Languages**
 
-Bash, Markdown, YAML, HTML/CSS
+Bash, Markdown, YAML, HTML/CSS, Python (workflow-related), CSV, Natural Language (LLM prompting)
 
 ## **Platforms**
 
@@ -35,6 +41,9 @@ Linux, Windows
 - ✅ Detail-oriented & self-directed
 - 🗣 Strong communicator & knowledge sharer
 - 📈 Growth-minded & reliable team player
+- 🧩 Modular & scalable systems thinker
+- 📚 Language-learning awareness and cross-domain adaptation
+- 🤝 Adaptive use of AI tools for productivity and learning
 
 ## Certificates
 
