@@ -1,5 +1,5 @@
-<!-- markdownlint-disable MD041 -->
-<!-- /* cspell:locale en */ -->
+<!-- markdownlint-disable MD033 MD041 -->
+<!-- /* cspell:locale en / -->
 <!-- LTeX: language=en-US-->
 
 ## **Portfolio**
@@ -10,21 +10,32 @@
 
 ## **Key Skills**
 
-- ⚙️ Automation & Scripting with Bash
-- 🐧 Linux System Administration
-- 🪛 Debugging & Optimization
-- 📝 Clear Documentation & Readable Code
-- 💻 Open Source Contributor
+* ⚙️ Automation & Scripting
+* 🧠 System Design for Automation
+* 🐧 Linux System Administration
+* 🪛 Debugging & Error Handling
+* 🔄 CI/CD Pipeline Integration
+* 📦 Workflow Bootstrapping
+* 📝 Documentation & Code Quality
+* 💻 Open Source Contributor
+* 🧪 Version Control Best Practices
+* 🤖 LLM-Powered Productivity
 
 ## **Tools & Technologies**
 
-- Bash, Git, GitHub
-- VS Code, ShellCheck
-- GitHub Actions (CI/CD)
+* Bash (advanced), Git, GitHub, Makefile
+* FastAPI, Markdown, mkdocs
+* VS Code, ShellCheck, markdownlint
+* GitHub Actions (CI/CD), GitHub CLI (`gh`)
+* GPT-based tooling & prompt engineering (LLMs for automation, DevOps, and documentation)
 
 ## **Languages**
 
-Bash, Markdown, YAML, HTML/CSS
+* Bash (advanced), Git, GitHub, Makefile
+* FastAPI, Markdown, mkdocs
+* VS Code, ShellCheck, markdownlint
+* GitHub Actions (CI/CD), GitHub CLI (`gh`)
+* GPT-based tooling & prompt engineering (LLMs for automation, DevOps, and documentation)
 
 ## **Platforms**
 
@@ -32,10 +43,31 @@ Linux, Windows
 
 ## **Soft Skills**
 
-- ✅ Detail-oriented & self-directed
-- 🗣 Strong communicator & knowledge sharer
-- 📈 Growth-minded & reliable team player
+* ✅ Detail-oriented & self-directed
+* 🗣 Strong communicator & knowledge sharer
+* 📈 Growth-minded & reliable team player
+* 🧩 Modular & scalable systems thinker
+* ⏱️ Effective time manager — applies GTD principles and async workflows for focus and follow-through
+* 📚 Language-learning awareness and cross-domain adaptation
+* 🤝 Adaptive use of AI tools for productivity and continuous learning
 
 ## Certificates
 
-![Computer Hardware Basics](<./imgs/certs/Computer Hardware Basics.png>) ![Computer Hardware Basics](<./imgs/certs/Introduction to Cybersecurity.png>) ![Computer Hardware Basics](<./imgs/certs/Networking Basics.png>) ![Computer Hardware Basics](<./imgs/certs/Operating Systems Basics.png>)
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; align-items: center;">
+
+  <!-- cspell:disable-next-line -->
+  <img src="./imgs/certs/certyfikat-wprowadzenie-do-ai-kompleksowy-przewodnik-po-sztucznej-inteligencji_340.png" alt="Wprowadzenie do AI" style="max-width: 200px; height: auto;" />
+  <img src="./imgs/certs/Use Google to Get a New Job.png" alt="Use Google to Get a New Job" style="max-width: 200px; height: auto;" />
+  <img src="./imgs/certs/Computer Hardware Basics.png" alt="Computer Hardware Basics" style="max-width: 200px; height: auto;" />
+  <img src="./imgs/certs/Introduction to Cybersecurity.png" alt="Introduction to Cybersecurity" style="max-width: 200px; height: auto;" />
+  <img src="./imgs/certs/Networking Basics.png" alt="Networking Basics" style="max-width: 200px; height: auto;" />
+  <img src="./imgs/certs/Operating Systems Basics.png" alt="Operating Systems Basics" style="max-width: 200px; height: auto;" />
+
+</div>
+
+---
+
+## 💼 Available for freelance projects, consultations, or one-off automation tasks:
+
+* [**Upwork**](https://www.upwork.com/freelancers/~015d8a2b4f2d082706)
+* [**Fiverr**](https://www.fiverr.com/s/42djakR)
