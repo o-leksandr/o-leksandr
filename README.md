@@ -69,3 +69,10 @@ Linux, Windows
 
 * [**Upwork**](https://www.upwork.com/freelancers/~015d8a2b4f2d082706)
 * [**Fiverr**](https://www.fiverr.com/s/42djakR)
+
+---
+
+## Following
+
+* [brand](https://www.linkedin.com/in/mattgray1)
+* [bash](https://mywiki.wooledge.org/BashSheet)
