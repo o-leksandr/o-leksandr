@@ -4,7 +4,7 @@
 
 ## [You can support me](https://buy.stripe.com/dR6fYY6hC6ey76geXw)
 
-by paying for my [ISPO](https://www.ispoint.org) membership, so I can try to join a ![committee](https://media.licdn.com/dms/image/v2/D5610AQH0iLdIMlO8qw/image-shrink_800/B56ZYd4IHTHQAk-/0/1744257975894?e=1749495600&v=beta&t=EJ9FPNk82YsiHlDVS5VtfUiSjHUgYl-TjKR6vjIEXJc)
+by paying for my [ISPO](https://www.ispoint.org) membership, so I can try to join a ![committee](https://media.licdn.com/dms/image/v2/D5610AQH0iLdIMlO8qw/image-shrink_800/B56ZYd4IHTHQAk-/0/1744257975894?e=1750856400&v=beta&t=osmv99OI-n0EYL3cAX0X7St-OUFNwk5jz4Q613MbmXc)
 
 ---
 
