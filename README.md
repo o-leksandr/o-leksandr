@@ -2,12 +2,6 @@
 <!-- /* cspell:locale en / -->
 <!-- LTeX: language=en-US-->
 
-## [You can support me](https://buy.stripe.com/dR6fYY6hC6ey76geXw)
-
-by paying for my [ISPO](https://www.ispoint.org) membership, so I can try to join a ![committee](https://media.licdn.com/dms/image/v2/D5610AQH0iLdIMlO8qw/image-shrink_800/B56ZYd4IHTHQAk-/0/1744257975894?e=1750856400&v=beta&t=osmv99OI-n0EYL3cAX0X7St-OUFNwk5jz4Q613MbmXc)
-
----
-
 ## **Portfolio**
 
 [link](https://o-leksandr.github.io) / [source](https://github.com/o-leksandr/o-leksandr.github.io)
