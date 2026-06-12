@@ -2,6 +2,12 @@
 
 ---
 
+[Rnote interpreter](https://rnote-pages--o-leksandr.replit.app/)
+
+![Support](./imgs/dalink-qr-code.png)
+
+---
+
 ## 💼 Available for freelance projects:
 
 * [**Upwork**](https://www.upwork.com/freelancers/~015d8a2b4f2d082706)
