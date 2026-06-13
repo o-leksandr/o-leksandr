@@ -2,7 +2,9 @@
 
 ---
 
-[Rnote interpreter](https://rnote-pages--o-leksandr.replit.app/)
+[notebook](https://sourcecraft.dev/alexander-globa/notebook)
+
+---
 
 ![Support](./imgs/dalink-qr-code.png)
 
