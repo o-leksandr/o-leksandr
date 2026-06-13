@@ -2,5 +2,3 @@
 .*
 !*/certs/
 !imgs/dalink-qr-code.png
-!docs/
-!docs/index.html
